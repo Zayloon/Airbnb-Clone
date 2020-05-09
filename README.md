@@ -1,3 +1,3 @@
-# Song Streaming Service
+# Airbnb Clone
 
-The [Song Streaming Service Document](document.pdf) is in pdf format along with an [Entity Relationship Diagram](erd.png)
+The [Airbnb Clone Document](document.pdf) is in pdf format along with an [Entity Relationship Diagram](erd.png)
